@@ -1,1 +1,1 @@
-# project2
+# Whack-a-mole-game
